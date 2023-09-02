@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="programmer woman" src="./assets/programmer.gif" width=300px>
+  <img align="right" alt="programmer woman" src="https://media3.giphy.com/media/VPnfM9bmR0ZaQo3qtK/giphy.gif" width=300px>
 </picture>
 
 - I'm Annie, a software engineer who has been coding since 2020. In corporate, I have been a frontend and API developer.

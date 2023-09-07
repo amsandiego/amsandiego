@@ -2,11 +2,6 @@
 
 ## <picture><img src = "./assets/about-me.png" width = "40"></picture> **About me**
 
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="programmer woman" src="https://media3.giphy.com/media/VPnfM9bmR0ZaQo3qtK/giphy.gif" width=300px>
-</picture>
-
 - I'm Annie, a software engineer who has been coding since 2020. In corporate, I have been a frontend and API developer.
 - Currently, I'm self-studying full stack JavaScript through [The Odin Project](https://theodinproject.com/) to strengthen my fundamentals and build more projects.
 - I am also taking up a [React course on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?kw=react&src=sac) and practicing my frontend skills at [Frontend Mentor](https://www.frontendmentor.io/).

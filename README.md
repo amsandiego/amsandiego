@@ -5,6 +5,7 @@
 - I'm Annie, a software engineer who has been coding since 2020. In corporate, I have been a frontend and API developer.
 - Currently, I'm self-studying full stack JavaScript through [The Odin Project](https://theodinproject.com/) to strengthen my fundamentals and build more projects.
 - I am also taking up a [React course on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?kw=react&src=sac) and practicing my frontend skills at [Frontend Mentor](https://www.frontendmentor.io/).
+- My current tech read: [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230).
 - My long-term goal is to build web products that people love to use and mentor other junior developers in the process.
 - When not programming, you can find me either reading on my Kindle, playing with my dogs, or hitting the gym.
 

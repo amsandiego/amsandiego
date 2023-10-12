@@ -1,10 +1,10 @@
-<h1 align="left"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hello there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "./assets/about-me.png" width = "40"></picture> **About me**
 
-- I'm Annie, a software engineer who has been coding since 2020. In corporate, I have been a frontend and API developer.
-- Currently, I'm self-studying full stack JavaScript through [The Odin Project](https://theodinproject.com/) to strengthen my fundamentals and build more projects.
-- I am also taking up a [React course on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?kw=react&src=sac) and practicing my frontend skills at [Frontend Mentor](https://www.frontendmentor.io/).
+- I'm Annie, a frontend developer from a civil engineering background.
+- Currently, I'm going through the full-stack JavaScript curriculum of [The Odin Project](https://theodinproject.com/) to strengthen my fundamentals and build more projects.
+- I am also taking up a [React course on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?kw=react&src=sac) and sharpening my frontend skills at [Frontend Mentor](https://www.frontendmentor.io/).
 - My current tech read: [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230).
 - My long-term goal is to build web products that people love to use and mentor other junior developers in the process.
 - When not programming, you can find me either reading on my Kindle, playing with my dogs, or hitting the gym.

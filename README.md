@@ -11,7 +11,7 @@
 
 <br>
 
-## <iframe src="https://giphy.com/embed/qAwL4XhCeuJR5qDTmo" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bolt-nut-screw-qAwL4XhCeuJR5qDTmo"></a></p>**Skills**
+## <img src="https://media0.giphy.com/media/qAwL4XhCeuJR5qDTmo/giphy.gif" width ="40" height="40">**Skills**
 
 <table>
   <tr>

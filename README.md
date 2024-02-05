@@ -2,12 +2,13 @@
 
 ## <picture><img src = "./assets/about-me.png" width = "40"></picture> **About me**
 
-- I'm Annie, a frontend developer from a civil engineering background.
-- Currently, I'm going through the full-stack JavaScript curriculum of [The Odin Project](https://theodinproject.com/) to strengthen my fundamentals and build more projects.
-- I am also taking up a [React course on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?kw=react&src=sac) and sharpening my frontend skills at [Frontend Mentor](https://www.frontendmentor.io/).
-- My current tech read: [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230).
-- My long-term goal is to build web products that people love to use and mentor other junior developers in the process.
-- When not programming, you can find me either reading on my Kindle, playing with my dogs, or hitting the gym.
+- I'm Annie, currently working as a software engineer at Samsung.
+- I spent 5 years to finish my Civil Engineering degree, half a year to get my professional license, and 1.5 years working in the industry. That's a total of 7 years devoted to civil engineering.
+- I lost my job during the pandemic and tried my luck in IT, reading from Reddit that it is one of the highest paying careers with low barriers to entry. I hyped myself up to like programming. I did like it for a while, loved the high salary, work-life balance, and work-from-anywhere perks. Nowadays, I'm not so sure.
+- I have been in the tech field for 3.5 years now. I am thankful for the friends I met, the money I got which was able to pay for my mom's cancer treatment, and which allowed me to have actual hobbies.
+- The joy of solving complex problems, fixing bugs, implementing features has faded. It could be because of the lack of empathy I received when I was going thru a tough time and couldn't focus at work. It could be because my heart was being called to something else.
+- Dreams can change. I hope to be able to reach the next dream that's brewing on my mind. ☺️⚕️
+
 
 <br>
 

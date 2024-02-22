@@ -2,7 +2,6 @@
 
 ## <picture><img src = "./assets/about-me.png" width = "40"></picture> **About me**
 
-- I'm Annie, currently working as a software engineer at Samsung.
 - I spent 5 years to finish my Civil Engineering degree, half a year to get my professional license, and 1.5 years working in the industry. That's a total of 7 years devoted to civil engineering.
 - I lost my job during the pandemic and tried my luck in IT. I was hired by a company that accepts career shifters. I am now 3.5 years into my journey as a software engineer, primarily focusing on web development.
 - Dreams can change. I hope to be able to reach the next dream that's brewing on my mind. ☺️

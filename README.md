@@ -3,7 +3,7 @@
 ## <picture><img src = "./assets/about-me.png" width = "40"></picture> **About me**
 
 - I spent 5 years to finish my Civil Engineering degree, half a year to get my professional license, and 1.5 years working in the industry. That's a total of 7 years devoted to civil engineering.
-- I lost my job during the pandemic and tried my luck in IT. I was hired by a company that accepts career shifters. I am now 3.5 years into my journey as a software engineer, primarily focusing on web development.
+- After being laid off from my job in construction at the height of the pandemic, I took inventory of my skills and interests, realigned my career goals, and successfully pivoted to a career in software engineering. I am now thriving in the field with over 3 years of experience in full stack web development and cloud technologies.
 - My main advocacies in my software engineering career are:
   1. mastering the fundamentals
   2. writing clean, maintainable code

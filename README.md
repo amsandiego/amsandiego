@@ -1,17 +1,12 @@
-<h1 align="left"><b>Hello there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 ## <picture><img src = "./assets/about-me.png" width = "40"></picture> **About me**
 
 - I spent 5 years to finish my Civil Engineering degree, half a year to get my professional license, and 1.5 years working in the industry. That's a total of 7 years devoted to civil engineering.
-- After being laid off from my job in construction at the height of the pandemic, I took inventory of my skills and interests, realigned my career goals, and successfully pivoted to a career in software engineering. I am now thriving in the field with over 3 years of experience in full stack web development and cloud technologies.
+- After being laid off from my job in construction at the height of the pandemic, I took inventory of my skills and interests, realigned my career goals, and successfully pivoted to a career in software engineering. I am now thriving in the field with 3 years of combined experience in backend and frontend web development.
 - My main advocacies in my software engineering career are:
   1. mastering the fundamentals
   2. writing clean, maintainable code
   3. mentorship and knowledge-sharing
  
-- I am on a career break until April 2024. Feel free to contact me for collaborations and job opportunites.
-
-
 <br>
 
 ## <img src="https://media0.giphy.com/media/qAwL4XhCeuJR5qDTmo/giphy.gif" width ="40" height="40">**Skills**

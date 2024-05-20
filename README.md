@@ -1,11 +1,7 @@
 ## <picture><img src = "./assets/about-me.png" width = "40"></picture> **About me**
 
-- I spent 5 years to finish my Civil Engineering degree, half a year to get my professional license, and 1.5 years working in the industry. That's a total of 7 years devoted to civil engineering.
-- After being laid off from my job in construction at the height of the pandemic, I took inventory of my skills and interests, realigned my career goals, and successfully pivoted to a career in software engineering. I am now thriving in the field with 3 years of combined experience in backend and frontend web development.
-- My main advocacies in my software engineering career are:
-  1. mastering the fundamentals
-  2. writing clean, maintainable code
-  3. mentorship and knowledge-sharing
+- After being laid off from my civil engineering job at the height of the pandemic, I took inventory of my skills and interests, realigned my career goals, and pivoted to a career in software engineering. I am now thriving in the field with 3 years of combined experience in backend and frontend web development.
+- Outside of work, I read, cook, and take care of 2 dogs and a cat.
  
 <br>
 
@@ -58,15 +54,6 @@
       />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Express.js</strong>
-    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -98,7 +85,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         width="48"
         height="48"
         alt="AWS"

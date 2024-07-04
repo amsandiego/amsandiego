@@ -1,10 +1,3 @@
-## <picture><img src = "./assets/about-me.png" width = "40"></picture> **About me**
-
-- After being laid off from my civil engineering job at the height of the pandemic, I took inventory of my skills and interests, realigned my career goals, and pivoted to a career in software engineering. I now have 3 years of combined experience in backend and frontend web development.
-- Outside of work, I read, cook, and take care of 2 dogs and a cat.
- 
-<br>
-
 ## <img src="https://media0.giphy.com/media/qAwL4XhCeuJR5qDTmo/giphy.gif" width ="40" height="40">**Skills**
 
 <table>
